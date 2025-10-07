@@ -1,1 +1,21 @@
+O que é git? 
+
+Git é um sistema de versionamento de código, que guarda os registros de versão como snapshots (fotos) do estado do projeto,
+além da referência/caminho para essa foto
+
+Como ele faz o snapshot?
+ele faz uma hash (registro) do estado do código.
+
+Git e suas operações locais:
+A maioria das operações feitas pelo Git são locais e por isso boa parte das operações são praticamente instantâneas devido à facilidade 
+de acessar arquivos em seu próprio computador.
+
+_______________________________________________________________________________________________________________________________________
+
+Comandos iniciais 
+git --version
+git config --global user.name "user"
+git config --global user.email xxxx@email.com
+
+
 
