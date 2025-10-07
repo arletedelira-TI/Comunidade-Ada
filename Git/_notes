@@ -18,5 +18,9 @@ git config --global user.name "user"
 git config --global user.email xxxx@email.com
 git clone
 git init
+Git status
 
+Estados do Git:
+- Unmodified = arquivo mapeado pelo git (processo de stagin), além de ter dado commit no arquivo. Todas as modificações estão salvas.
+- Modified = 
 
