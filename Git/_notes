@@ -19,8 +19,20 @@ git config --global user.email xxxx@email.com
 git clone
 git init
 Git status
+Git add
+Git diff
+Git diff --staged
+
 
 Estados do Git:
-- Unmodified = arquivo mapeado pelo git (processo de stagin), além de ter dado commit no arquivo. Todas as modificações estão salvas.
-- Modified = 
+1) Unmodified = arquivo mapeado pelo git (processo de stagin), além de ter dado commit no arquivo. Todas as modificações estão salvas.
+2) Modified = Edição do arquivo
+3) Stages = area preparatória para o commit das modificações (git add)
+---retorna ao estagio 1
+
+- Untracked = 
+
+______________________________________________________________________________________________________________
+
+Git diff
 
