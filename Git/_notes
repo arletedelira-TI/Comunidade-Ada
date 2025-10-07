@@ -16,6 +16,7 @@ Comandos iniciais
 git --version
 git config --global user.name "user"
 git config --global user.email xxxx@email.com
-
+git clone
+git init
 
 
